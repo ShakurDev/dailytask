@@ -41,7 +41,7 @@ body{
 
 .carousel-item{
     height:500px;
-    background: url(../img/carpenter.jpg);
+    background: url(img/carpenter.jpg);
     background-position: contain;
 	width: 100%;
 	
