@@ -183,6 +183,9 @@ hr.socket{
 		text-align:center;
 		margin-top:.10px;
 	}
+	h1.display-4{
+		font-size:60%;
+	}
 }
 @media(max-width:768px){
 
