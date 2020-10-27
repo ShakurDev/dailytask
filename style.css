@@ -113,8 +113,13 @@ h3.heading{
 }
 .fa-broom,
 .fa-book,
-.fa-car,
-.fa-code{
+.fa-truck-loading,
+.fa-code,
+.fa-dumpster,
+.fa-project-diagram,
+.fa-ad,
+.fa-layer-group
+.fa-dryer-alt{
 	color:#b32424;
 	margin-bottom:1rem;
 	font-size:3.5rem;
